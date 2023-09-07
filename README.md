@@ -35,9 +35,11 @@ Ready to embark on your robotic journey? With AutonomiTech, the future of autono
 Here are the vision and mission statements for AutonomiTech:
 
 **Vision Statement**:
+
 "To lead the way in democratizing robotics, empowering individuals and organizations to harness the full potential of autonomous technology for a smarter, safer, and more innovative future."
 
 **Mission Statement**:
+
 "At AutonomiTech, our mission is to provide a dynamic platform that inspires, educates, and equips enthusiasts, engineers, and innovators to create and customize autonomous robots. We aim to:
 
 1. **Enable Creativity**: Foster a creative and collaborative environment where individuals from all backgrounds can design, build, and experiment with autonomous robotic solutions.
